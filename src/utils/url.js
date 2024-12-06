@@ -1,2 +1,2 @@
 export const BASE_URL =
-  "https://e-diary-backend.vercel.app/api/v1";
+  "https://e-diary-backend-tppp.onrender.com/api/v1";
