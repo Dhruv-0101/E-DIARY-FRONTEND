@@ -1,1 +1,2 @@
-export const BASE_URL = "http://localhost:8000/api/v1";
+export const BASE_URL =
+  "https://e-diary-backend-jkbwvha8f-dhruvs-projects-aafa8f8d.vercel.app";
